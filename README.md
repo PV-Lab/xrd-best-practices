@@ -305,8 +305,6 @@ pronounced at higher 2<em>θ</em> angles, hence it's important to collect
 data out to high angles, and track the 2<em>θ</em> positions of those peaks
 during the compositional gradient _A_ to _B_.
 
-$σ = \sqrt{I\frac{\sum_{}^{}{(I_{i} - \overline{I})}^{2}}{N - 1}}$
-
 <br><br>
 
 [^1]: In transmission mode, one doesn't need to worry about **irradiated
