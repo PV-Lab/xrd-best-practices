@@ -1,6 +1,6 @@
 ## <div align="center"><b>Standards for XRD Data Acquisition & Reporting in MIT AMLS Publications</b></div>
-<div align="center">by Tonio Buonassisi (MIT, <buonassi@mit.edu>) and Jordan Cox (Characterization.nano,<jmcox@mit.edu>), with input from Kangyu Ji & Fang Sheng</div>
-<div align="center">Last updated February 20, 2025</div>
+<div align="center">by Tonio Buonassisi (MIT, buonassi@mit.edu) and Jordan Cox (Characterization.nano, jmcox@mit.edu), with input from Kangyu Ji & Fang Sheng. Grateful for technical support from Alexander E. Siemenn.</div>
+<div align="center">Last updated March 2, 2025</div>
 
 <br><br>
 
