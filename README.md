@@ -148,7 +148,7 @@ file:</u>
 -   XRD data should show both the individual data points (_e.g._,
     circles) and the Rietveld refinement fit (thin line).
 
--   Plot the [residual and/or]{.underline} <u>normalized residual
+-   Plot the residual and/or <u>normalized residual
     ∆/_σ_ </u>below the XRD pattern. The residual (∆) is the
     data minus the refinement, or observed minus calculated. For the
     normalized residual, ∆ is divided by the standard deviation (_σ_)
@@ -214,7 +214,7 @@ was properly performed:
 -   GOF ideally as close to 1 as possible. (values approaching 2
     indicate data-quality issues.)
 
-<u>Step 4: Plotting data and providing raw data as a supplementary
+<u>Plotting data and providing raw data as a supplementary
 file:</u>
 
 -   XRD data should show both the individual data points (_e.g_.,
